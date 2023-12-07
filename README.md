@@ -5,7 +5,7 @@ Telnets to P1-E20 ethernet reader and exposes received data as Prometheus metric
 ## Installation
 
 ```shell
-python -m venv .env`
+python -m venv .env
 source .env/bin/activate
 pip install -r requirements.txt
 ```
